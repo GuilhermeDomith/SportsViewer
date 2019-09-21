@@ -1,0 +1,29 @@
+Exercício: Caminhada
+
+------ Usuário ------
+Nome: Ana Júlia
+Sexo: feminino
+Altura: 1,70 m
+Peso: 76,0 Kg
+Data de nascimento: 22/04/1970
+E-mail: anajulia@gmail.com
+
+------ Detalhes do exercício ------
+Data: 01/05/2018
+Tempo: 05:20 - 06:20
+Duração: 01:00:00
+Distância: 10,75 Km
+Calorias perdidas: 500 Kcal
+Passos: 3.350
+Velocidade média: 6,5 Km/h
+Velocidade máxima: 10,0 Km/h
+Ritmo médio: 09'08" /Km
+Ritmo máximo: 06'40" /Km
+Menor elevação: 1.044 m
+Maior elevação: 1.154 m
+
+------ Ritmo ------
+1 Km: 09'15"
+2 Km: 09'00"
+3 Km: 08'54"
+3,75 Km: 09’45"

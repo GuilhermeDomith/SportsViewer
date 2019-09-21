@@ -1,0 +1,3 @@
+BD: AvaliacaoFisica
+usuário: postgres
+senha: aluno

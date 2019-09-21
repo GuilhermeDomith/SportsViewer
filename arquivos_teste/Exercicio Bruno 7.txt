@@ -1,0 +1,17 @@
+Exercício: Handball
+
+------ Usuário ------
+Nome: Bruno Silva
+Sexo: masculino
+Altura: 1,70 m
+Peso: 76,0 Kg
+Data de nascimento: 22/04/1980
+E-mail: brunosilva@gmail.com
+
+------ Detalhes do exercício ------
+Data: 27/05/2018
+Tempo: 10:30 - 11:32
+Duração: 01:01:39
+Distância: 9,75 Km
+Calorias perdidas: 600 Kcal
+Passos: 5.238

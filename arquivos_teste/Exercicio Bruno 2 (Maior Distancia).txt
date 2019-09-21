@@ -1,0 +1,38 @@
+Exercício: Corrida
+
+------ Usuário ------
+Nome: Bruno Silva
+Sexo: masculino
+Altura: 1,70 m
+Peso: 76,0 Kg
+Data de nascimento: 22/04/1980
+E-mail: brunosilva@gmail.com
+
+------ Detalhes do exercício ------
+Data: 13/05/2018
+Tempo: 19:30 - 20:35
+Duração: 01:05:00
+Distância: 12,89 Km
+Calorias perdidas: 500 Kcal
+Passos: 8.238
+Velocidade média: 8,7 Km/h
+Velocidade máxima: 10,1 Km/h
+Ritmo médio: 09'08" /Km
+Ritmo máximo: 06'40" /Km
+Menor elevação: 1.009 m
+Maior elevação: 1.100 m
+
+------ Ritmo ------
+1 Km: 09'15"
+2 Km: 09'00"
+3 Km: 08'54"
+4 Km: 08'56"
+5 Km: 09'06"
+6 Km: 09'09"
+7 Km: 09'09"
+8 Km: 09'09"
+9 Km: 09'09"
+10 Km: 09'09"
+11 Km: 09'09"
+12 Km: 09'09"
+12,89 Km: 09’09"

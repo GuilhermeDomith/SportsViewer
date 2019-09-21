@@ -1,0 +1,17 @@
+Exercício: Basquete
+
+------ Usuário ------
+Nom: Ana Júlia
+Sexo: feminino
+Altura: 1,70 m
+Peso: 76,0 Kg
+Data de nascimento: 22/04/1970
+E-mail: anajulia@gmail.com
+
+------ Detalhes do exercício ------
+Data: 32/05/2018
+Tempo: 07:10 - 08:30
+Duração: 01:20:00
+Distância: 5,75 Km
+Calorias perdidas: 240 Kcal
+Passos: 6.300

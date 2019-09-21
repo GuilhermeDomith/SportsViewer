@@ -1,0 +1,17 @@
+Exercício: Vôlei
+
+------ Usuário ------
+Nome: Ana Maria
+Sexo: Feminino
+Altura: 1,50 m
+Peso: 65,0 Kg
+Data de nascimento: 07/04/1999
+E-mail: anamaria@gmail.com
+
+------ Detalhes do exercício ------
+Data: 22/05/2018
+Tempo: 15:30 - 17:32
+Duração: 02:01:39
+Distância: 6,75 Km
+Calorias perdidas: 375 Kcal
+Passos: 10.200

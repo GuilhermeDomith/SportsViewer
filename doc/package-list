@@ -1,0 +1,16 @@
+gdrc.sports.app
+gdrc.sports.gui.component
+gdrc.sports.gui.es
+gdrc.sports.gui.img.icone
+gdrc.sports.gui.janela
+gdrc.sports.io.arquivo
+gdrc.sports.io.bd.dao
+gdrc.sports.io.padrao
+gdrc.sports.io.pdf
+gdrc.sports.tipo
+gdrc.sports.tipo.exception
+gdrc.sports.tipo.grafico
+gdrc.sports.tipo.time
+gdrc.sports.util.controle
+gdrc.sports.util.propriedades
+gdrc.sports.util.relatorio
