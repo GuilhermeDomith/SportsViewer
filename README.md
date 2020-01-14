@@ -10,7 +10,7 @@ Os arquivos que são utilizados para importação precisam seguir um dos dois pa
 
 <p align="center">
     <img src="readme/padrao_importacao.png"
-    width="80%">
+    width="50%">
 </p>
 
 <p align="justify">
@@ -23,7 +23,7 @@ Os arquivos que são utilizados para importação precisam seguir um dos dois pa
 </p>
 
 <p align="justify">
-Após a importação é possível verificar o desempenho dos usuários a partir dos gráficos que podem ser gerados.
+Após a importação é possível verificar o desempenho dos usuários a partir dos gráficos que podem ser gerados, onde se pode selecionar o tipo de gráfico, de atividade ou as variáveis que serão analisádas.
 </p>
 
 <p align="center">
