@@ -14,7 +14,7 @@ Os arquivos que são utilizados para importação precisam seguir um dos dois pa
 </p>
 
 <p align="justify">
- Nos <a href="/arquivos_teste"> arquivos utilizados</a> para teste do programa se encontram alguns formatados de forma incorreta, propositalmente. Abaixo é possível visualizar como é realizada a importação.
+ Nos <a href="/arquivos_teste"> arquivos utilizados</a> para teste do programa se encontram alguns formatados de forma incorreta, propositalmente. Abaixo é possível visualizar como pode ser realizada a importação das atividades físicas.
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Após a importação é possível verificar o desempenho dos usuários a partir 
 </p>
 
 <p align="justify">
-Todos as análises geradas sobre as atividades físicas podem ser exportadas para um arquivo PDF. Esta função permite que o usuário do programa selecione o conteúdo que estará presente no PDF, ou seja, ele pode incluir, ou não,  o relatório e as informações pessoais e pode também selecionar os tipos de gráficos a serem exportados.
+Todas as análises geradas sobre as atividades físicas podem ser exportadas para um arquivo PDF. Esta função permite que o usuário do programa selecione o conteúdo que estará presente no PDF, ou seja, ele pode incluir, ou não,  o relatório e as informações pessoais e pode também selecionar os tipos de gráficos a serem exportados.
 </p>
 
 <p align="center">
